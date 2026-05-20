@@ -1,5 +1,6 @@
 # Excel-Dashboard
 Excel Based projects on various data analysis on different open source data
+
 Interactive Excel Dashboard for visualizing sales performance, revenue trends, customer insights, and business KPIs.
 
 Dynamic Excel dashboard project featuring data analysis, charts, KPI tracking, and interactive business reporting.
